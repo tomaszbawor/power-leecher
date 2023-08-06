@@ -12,5 +12,5 @@ cargo build
 ### Running
 
 ```bash
-trunk serve --open
+cargo run
 ```
