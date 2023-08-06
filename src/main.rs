@@ -1,4 +1,4 @@
-use crate::components::App::App;
+use crate::components::App;
 use leptos::*;
 
 mod components;
